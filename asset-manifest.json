@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gangadhararaoande/comlab-india-assignment/static/css/main.888a0ee5.css",
+    "main.js": "/gangadhararaoande/comlab-india-assignment/static/js/main.66e2112d.js",
+    "static/js/555.7ff36f39.chunk.js": "/gangadhararaoande/comlab-india-assignment/static/js/555.7ff36f39.chunk.js",
+    "index.html": "/gangadhararaoande/comlab-india-assignment/index.html",
+    "main.888a0ee5.css.map": "/gangadhararaoande/comlab-india-assignment/static/css/main.888a0ee5.css.map",
+    "main.66e2112d.js.map": "/gangadhararaoande/comlab-india-assignment/static/js/main.66e2112d.js.map",
+    "555.7ff36f39.chunk.js.map": "/gangadhararaoande/comlab-india-assignment/static/js/555.7ff36f39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.888a0ee5.css",
+    "static/js/main.66e2112d.js"
+  ]
+}
