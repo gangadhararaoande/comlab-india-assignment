@@ -1,0 +1,167 @@
+.home-bg {
+  background-image: url("https://res.cloudinary.com/dqbkkteel/image/upload/v1698859869/nightlife-disco-concept-young-people-260nw-457835914_gt4zys.webp");
+  position: static;
+  height: 100vh;
+  background-size: cover;
+  overflow: auto;
+}
+.main-heading {
+  font-size: 28px !important;
+  line-height: 36px !important;
+  color: #ffffff !important;
+}
+.img-unleash-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.unleash-bg {
+  background-image: url(https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-texture-bg.jpg) !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  padding: 10px;
+}
+.trend-topic-paragraph {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: none;
+
+  color: #2e475d;
+  font-size: 16px;
+}
+.unleash-heading {
+  color: #bf2b2b !important;
+  display: block !important;
+  text-align: center !important;
+  font-size: 42px;
+}
+.li {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: none;
+  color: #2e475d;
+  font-size: 16px;
+}
+.join-div {
+  background-color: #000000 !important;
+  background-image: none !important;
+  color: #ffffff !important;
+  display: block !important;
+  text-align: center !important;
+}
+.company-div {
+  background-color: #bf2b2b;
+  margin-top: 20px;
+}
+.you-will-learn-bg {
+  background-image: url("https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-grey-banner.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  position: static;
+}
+.learn-heading {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  text-decoration: none;
+  color: #2e475d;
+  font-size: 42px;
+  text-transform: none;
+}
+li {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: none;
+  color: #2e475d;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.unleash-head {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #2e475d;
+  font-size: 32px;
+  text-transform: none;
+}
+h6 {
+  font-family: Lexend Deca, serif;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #2e475d;
+  font-size: 20px;
+  text-transform: none;
+}
+.time-date-duration {
+  font-family: Lexend Deca, serif;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #2e475d;
+  font-size: 26px;
+  text-transform: none;
+}
+.host-bg {
+  background-color: rgba(0, 0, 0, 1) !important;
+  padding: 20px;
+  margin-top: 20px;
+}
+.meet-heading {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 42px;
+  text-transform: none;
+}
+.host-name {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 32px;
+  text-transform: none;
+}
+.role {
+  font-family: "Lexend Deca", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  text-transform: none;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 18px;
+}
+.host-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.host-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer {
+  background-color: rgba(0, 0, 0, 1) !important;
+  padding: 20px;
+  margin-top: 20px;
+}
+.policy-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+}
