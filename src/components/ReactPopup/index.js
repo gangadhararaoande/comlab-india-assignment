@@ -7,6 +7,7 @@ import { useState } from "react";
 const ReactPopUp = () => {
   const [firstNameError, setFirstNameError] = useState("");
   const [lastNameError, setLastNameError] = useState("");
+  const [phonenumberError, setPhoneNumberError] = useState("");
   const [error, setError] = useState("");
 
   const onSubmitSuccess = (event) => {
@@ -26,6 +27,13 @@ const ReactPopUp = () => {
       setLastNameError("");
     } else {
       setLastNameError("Please complete this required field.");
+    }
+  };
+  const onEnterPhoneNumber = (event) => {
+    if (event.target.value) {
+      setPhoneNumberError("");
+    } else {
+      setPhoneNumberError("Please complete this required field.");
     }
   };
 
@@ -117,9 +125,16 @@ const ReactPopUp = () => {
                   htmlFor="phonenumber"
                   className="input"
                   placeholder="Phone Number"
+                  onChange={onEnterPhoneNumber}
                 />
+                <p className="error">{phonenumberError}</p>
                 <center>
-                  <button type="submit">Submit</button>
+                  <a
+                    href="https://resources.commlabindia.com/webinar/corporate-training-with-ai-exclusive-jan2024?submissionGuid=6983f554-83ea-4168-acb0-11a1956de947"
+                    className="secure-your-seat-button"
+                  >
+                    SECURE YOUR SEAT
+                  </a>
                 </center>
               </form>
             </div>
